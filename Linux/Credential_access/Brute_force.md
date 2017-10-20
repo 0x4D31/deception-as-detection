@@ -1,4 +1,4 @@
-## Brute Force
+# Brute Force
 
 MITRE ATT&CK technique [T1110](https://attack.mitre.org/wiki/Technique/T1110)
 

@@ -1,4 +1,4 @@
-## Bash History
+# Bash History
 
 MITRE ATT&CK technique [T1139](https://attack.mitre.org/wiki/Technique/T1139)
 
@@ -13,6 +13,6 @@ scp -P 2222 root@192.168.1.66:/var/db/backup.tar.gz /tmp/backup.tar.gz
 ```
 
 ### Useful Tools
-* [honeybits](https://github.com/0x4D31/honeybits)
-* [honeyλ](https://github.com/0x4D31/honeyLambda)
+* [honeybits](https://github.com/0x4D31/honeybits) - A tool designed to enhance the effectiveness of honeypots by spreading breadcrumbs & honeytokens across the system. Currently supports creating honeyfiles and several breadcrumbs including fake bash_history entries.
+* [honeyλ](https://github.com/0x4D31/honeyLambda) - Serverless application designed to create and monitor URL honeytokens (i.e. fake HTTP endpoints) automatically
 * [canarytokens](http://canarytokens.org)
