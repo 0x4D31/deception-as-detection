@@ -7,8 +7,8 @@ Tactic: Credential Access
 Platform: Windows
 
 ### Deception Techniques
-* Inject fake credentials into LSASS
-* Create  files containing fake credentials (i.e. honey accounts)
+* Inject fake credentials into LSASS (i.e. honey hashes)
+* Create files containing fake credentials (i.e. honey accounts)
   * Configuration, backup and connection files such as RDP, VPN, and AWS credentials file
   * Fake credentials in browser password manager
 
@@ -20,3 +20,4 @@ Platform: Windows
 ### Useful Resources
 * [Detecting Mimikatz Use On Your Network](https://isc.sans.edu/forums/diary/Detecting+Mimikatz+Use+On+Your+Network/19311/)
 * [DCEPT](https://www.secureworks.com/blog/dcept): An Open-Source Honeytoken Tripwire
+* [Dealing with credential theft](https://dfirblog.wordpress.com/2015/11/24/protecting-windows-networks-dealing-with-credential-theft/)
