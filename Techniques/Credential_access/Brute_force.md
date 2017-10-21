@@ -1,6 +1,8 @@
 # Brute Force
 
 MITRE ATT&CK technique [T1110](https://attack.mitre.org/wiki/Technique/T1110)
+Tactic: Credential Access
+Platform: Windows, Linux, Mac
 
 ### Deception Techniques
 * Set up fake network services and accounts

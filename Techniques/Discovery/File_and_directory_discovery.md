@@ -1,6 +1,8 @@
 # File and Directory Discovery
 
 MITRE ATT&CK technique [T1083](https://attack.mitre.org/wiki/Technique/T1083)
+Tactic: Discovery
+Platform: Windows, Linux, Mac
 
 ### Deception Techniques
 * Create fake directories and files (i.e. honeyfiles) and monitor the access to them using go-audit, auditd or a File Integrity Monitoring (FIM).
