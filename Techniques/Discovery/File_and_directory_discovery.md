@@ -1,7 +1,9 @@
 # File and Directory Discovery
 
 MITRE ATT&CK technique [T1083](https://attack.mitre.org/wiki/Technique/T1083)
+
 Tactic: Discovery
+
 Platform: Windows, Linux, Mac
 
 ### Deception Techniques

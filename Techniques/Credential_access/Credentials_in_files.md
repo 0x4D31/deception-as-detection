@@ -1,7 +1,9 @@
 # Credentials in Files
 
 MITRE ATT&CK technique [T1081](https://attack.mitre.org/wiki/Technique/T1081)
+
 Tactic: Credential Access
+
 Platform: Windows, Linux, Mac
 
 ### Deception Techniques

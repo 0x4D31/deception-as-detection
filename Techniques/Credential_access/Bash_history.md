@@ -1,7 +1,9 @@
 # Bash History
 
 MITRE ATT&CK technique [T1139](https://attack.mitre.org/wiki/Technique/T1139)
+
 Tactic: Credential Access
+
 Platform: Linux, Mac
 
 ### Deception Techniques
