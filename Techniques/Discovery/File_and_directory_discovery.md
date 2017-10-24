@@ -7,7 +7,7 @@ Tactic: Discovery
 Platform: Windows, Linux, Mac
 
 ### Deception Techniques
-* Create fake directories and files (i.e. honeyfiles) and monitor the access to them using go-audit, auditd or a File Integrity Monitoring (FIM).
+* Create fake directories and files (i.e. honeyfiles) and monitor access to them using go-audit, auditd or a File Integrity Monitoring (FIM).
 * Create beacon files that phone home when opened.
 * Create files containing deceptive content and breadcrumbs to lure the attacker toward your honeypots.
 
