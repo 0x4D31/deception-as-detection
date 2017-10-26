@@ -19,6 +19,7 @@ Platform: Windows, Linux, Mac
 
 ### Useful Resources
 * [Catching attackers with go-audit and a logging pipeline](https://summitroute.com/blog/2016/12/25/Catching_attackers_with_go-audit_and_a_logging_pipeline/)
+* [Using Windows File Auditing to Detect Honeyfile Access](https://labs.mwrinfosecurity.com/blog/using-windows-file-auditing-to-detect-honeyfile-access/)
 * [Automating the Generation of Enticing Text Content for High-Interaction Honeyfiles](https://scholarspace.manoa.hawaii.edu/handle/10125/41897)
 * [Canary Files](http://sdiwc.net/digital-library/download.php?id=00000551.pdf): generating fake files to detect critical data loss from complex computer networks
 * [Design requirements for generating deceptive content to protect document repositories](http://ro.ecu.edu.au/cgi/viewcontent.cgi?article=1055&context=isw)
