@@ -16,3 +16,7 @@
 * [Busting the Honeypot – Is there really a way for attackers to detect deception](https://www.topspinsec.com/blog/busting-honeypot-really-way-attackers-detect-deception/)
 * [High Interaction Honeypots with Sysdig and Falco](https://labs.mwrinfosecurity.com/blog/high-interaction-honeypots-with-sysdig-and-falco/)
 * [Catching attackers with go-audit and a logging pipeline](https://summitroute.com/blog/2016/12/25/Catching_attackers_with_go-audit_and_a_logging_pipeline/)
+* [Reddit/honeypot](https://www.reddit.com/r/honeypot/)
+* [Early Warning Detectors Using AWS Access Keys as Honeytokens](https://blog.komand.com/early-warning-detectors-using-aws-access-keys-honeytokens)
+* [Breach Detection At Scale With PROJECT SPACECRAB](https://developer.atlassian.com/blog/2017/10/project-spacecrab-breach-detection/)
+* [AWS API key Canarytoken](http://blog.thinkst.com/2017/09/canarytokens-new-member-aws-api-key.html)
