@@ -20,3 +20,4 @@
 * [Early Warning Detectors Using AWS Access Keys as Honeytokens](https://blog.komand.com/early-warning-detectors-using-aws-access-keys-honeytokens)
 * [Breach Detection At Scale With PROJECT SPACECRAB](https://developer.atlassian.com/blog/2017/10/project-spacecrab-breach-detection/)
 * [AWS API key Canarytoken](http://blog.thinkst.com/2017/09/canarytokens-new-member-aws-api-key.html)
+* [Systems and methods for the detection of advanced attackers using client side honeytokens (Patent)](https://encrypted.google.com/patents/WO2017120076A1)
