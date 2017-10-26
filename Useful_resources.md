@@ -10,6 +10,8 @@
 * [Baiting Inside Attackers Using Decoy Documents](https://www.cs.columbia.edu/~angelos/Papers/2009/DecoyDocumentsSECCOM09.pdf)
 * [HoneyGen: An automated honeytokens generator](http://ieeexplore.ieee.org/document/5984063/)
 * [Detecting Kerberoasting Activity Part 2 – Creating a Kerberoast Service Account Honeypot](https://adsecurity.org/?p=3513)
+* [Enabling an Anatomic View to Investigate Honeypot Systems: A Survey](https://arxiv.org/ftp/arxiv/papers/1704/1704.05357.pdf)
+* [A Survey on Honeypot Software and Data Analysis](https://arxiv.org/pdf/1608.06249.pdf)
 * [Detecting Mimikatz Use On Your Network](https://isc.sans.edu/forums/diary/Detecting+Mimikatz+Use+On+Your+Network/19311/)
 * [Busting the Honeypot – Is there really a way for attackers to detect deception](https://www.topspinsec.com/blog/busting-honeypot-really-way-attackers-detect-deception/)
 * [High Interaction Honeypots with Sysdig and Falco](https://labs.mwrinfosecurity.com/blog/high-interaction-honeypots-with-sysdig-and-falco/)
