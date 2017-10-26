@@ -4,7 +4,7 @@ MITRE ATT&CK technique [T1046](https://attack.mitre.org/wiki/Technique/T1046)
 
 Tactic: Discovery
 
-Platform: Windows
+Platform: Windows, Linux, Mac
 
 ### Deception Techniques
 * Set up fake network services
