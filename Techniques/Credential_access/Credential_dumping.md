@@ -24,3 +24,4 @@ Platform: Windows
 * [DCEPT](https://www.secureworks.com/blog/dcept): An Open-Source Honeytoken Tripwire
 * [Dealing with credential theft](https://dfirblog.wordpress.com/2015/11/24/protecting-windows-networks-dealing-with-credential-theft/)
 * [Busting the Honeypot – Is there really a way for attackers to detect deception](https://www.topspinsec.com/blog/busting-honeypot-really-way-attackers-detect-deception/)
+* [MimikatzHoneyToken](https://github.com/SMAPPER/MimikatzHoneyToken) - A logon script used to detect the theft of credentials by tools such as Mimikatz. This script is an AutoIT logon script that launches cmd.exe as a fake user account. It is intended to be ran as a logon script on windows systems.
