@@ -15,6 +15,6 @@ A [sample deception story](Deception_stories/DS0001.md) is created as a referenc
 ## :honey_pot: A [Useful List](Useful_resources.md) of Honey{*} Resources
 
 ## TODO
-- [ ] Complete the techniques under "Collection" and "Exfiltration"
+- [ ] Complete other techniques
 - [ ] Add more deception stories
 - [ ] Add Cloud based deception stories
