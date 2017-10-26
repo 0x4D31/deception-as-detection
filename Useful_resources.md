@@ -1,0 +1,16 @@
+# A Useful List of Honey{*} & ~~Cyber~~ Deception Resources
+
+* N. Virvilis, B. Vanautgaerden and O. S. Serrano, "[Changing the game: The art of deceiving sophisticated attackers](https://ccdcoe.org/cycon/2014/proceedings/d2r2s6_serrano.pdf)," 2014 6th International Conference On Cyber Conflict (CyCon 2014), Tallinn, 2014, pp. 87-97.
+* O. Zohar, A. Barbalat and R. Elharar, "[Applying Deception Mechanisms for Detecting Sophisticated Cyber Attacks](https://www.topspinsec.com/wp-content/uploads/2016/10/TopSpinSec-Deception-Research-Paper-OCT-05-16.pdf)," TopSpin Security, 2016.
+* T. Grudziecki, P. Jacewicz, Ł. Juszczyk, P. Kijewski and P. Pawliński, "[Proactive detection of security incidents II - Honeypots](https://www.enisa.europa.eu/publications/proactive-detection-of-security-incidents-II-honeypots/at_download/fullReport)," European Network and Information Security Agency (ENISA), 2012.
+* C. De Faveri and A. Moreira, "[Designing Adaptive Deception Strategies](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/645/original/DesigningAdaptiveDeceptionStrategies.pdf?1469118788)," 2016 IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C), Vienna, 2016, pp. 77-84.
+* C. D. Faveri, A. Moreira and V. Amaral, "[Goal-Driven Deception Tactics Design](http://nova-lincs.di.fct.unl.pt/system/publication_files/files/000/000/644/original/issre2016-goal-driven-deception-pre-cameraready.pdf?1469542781)," 2016 IEEE 27th International Symposium on Software Reliability Engineering (ISSRE), Ottawa, ON, 2016, pp. 264-275.
+* B. Whitham, "[Automating the Generation of Enticing Text Content for High-Interaction Honeyfiles](https://scholarspace.manoa.hawaii.edu/handle/10125/41897)," Hawaii International Conference on System Sciences (HICSS), 2017.
+* B. Whitham, "[Canary Files: generating fake files to detect critical data loss from complex computer networks](http://sdiwc.net/digital-library/download.php?id=00000551.pdf)," The Second International Conference on Cyber Security, Cyber Peacefare and Digital Forensic, 2013.
+* B. M. Bowen, et al., "[Baiting Inside Attackers Using Decoy Documents](https://www.cs.columbia.edu/~angelos/Papers/2009/DecoyDocumentsSECCOM09.pdf)," SecureComm. Vol. 19., 2009.
+* M. Bercovitch, M. Renford, L. Hasson, A. Shabtai, L. Rokach and Y. Elovici, "[HoneyGen: An automated honeytokens generator](http://ieeexplore.ieee.org/document/5984063/)," Proceedings of 2011 IEEE International Conference on Intelligence and Security Informatics, Beijing, 2011, pp. 131-136.
+* [Detecting Kerberoasting Activity Part 2 – Creating a Kerberoast Service Account Honeypot](https://adsecurity.org/?p=3513)
+* [Detecting Mimikatz Use On Your Network](https://isc.sans.edu/forums/diary/Detecting+Mimikatz+Use+On+Your+Network/19311/)
+* [Busting the Honeypot – Is there really a way for attackers to detect deception](https://www.topspinsec.com/blog/busting-honeypot-really-way-attackers-detect-deception/)
+* [High Interaction Honeypots with Sysdig and Falco](https://labs.mwrinfosecurity.com/blog/high-interaction-honeypots-with-sysdig-and-falco/)
+* [Catching attackers with go-audit and a logging pipeline](https://summitroute.com/blog/2016/12/25/Catching_attackers_with_go-audit_and_a_logging_pipeline/)
