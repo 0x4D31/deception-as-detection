@@ -16,3 +16,4 @@ Platform: Windows, Linux, Mac
 * [UDPot](https://github.com/jekil/UDPot)
 * [ApateDNS](https://www.fireeye.com/services/freeware/apatedns.html) - As a phony DNS server, ApateDNS spoofs DNS responses to a user-specified IP address by listening on UDP port 53 on the local machine.
 * [INetSim](http://www.inetsim.org/downloads.html) - A tool for simulating common internet services including HTTP(S), FTP(S), POP3(S), SMTP(S), DNS, TFTP, IRC and etc.
+* [FakeNet-NG](https://github.com/fireeye/flare-fakenet-ng)
